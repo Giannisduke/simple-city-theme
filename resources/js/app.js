@@ -45,9 +45,7 @@ scrollButton.addEventListener('click', () => {
 
 
  gsap.to(window, .5, {scrollTo:{y:shop, offsetY:50}});
-});
-
-
+ });
 
 
  document.addEventListener('facetwp-loaded', function() {
