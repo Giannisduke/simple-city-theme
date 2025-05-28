@@ -5,7 +5,7 @@
         <div class="container">
           <div class="row">
             <div class="offer_top_wrapper">
-        <span class="">Ειδική Πρoσφορά -10%</span>
+        <span class="">Ειδική Πρoσφορά -10% #</span>
             </div>
         
           </div>
